@@ -8,7 +8,7 @@ public class FrontendApplication {
 
 	@RequestMapping("/hi")
 	public String hi() {
-		return "hello dangnh 6666666";
+		return "hello dangnh 9999999";
 	}
 
 }
